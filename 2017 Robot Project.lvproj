@@ -541,11 +541,12 @@ AddOutputFilter chunkFilter
 				<Item Name="WPI_UtilitiesTimebaseConstants.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Utilities/WPI_UtilitiesTimebaseConstants.vi"/>
 				<Item Name="Write Value Core.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/Network Tables/Write Value Core.vi"/>
 			</Item>
-			<Item Name="Camera Types.ctl" Type="VI" URL="../../../../../../Program Files (x86)/National Instruments/LabVIEW 2016/examples/FRC/roboRIO/Vision/2017 Vision Example/Vision Support Code/Camera Types.ctl"/>
+			<Item Name="Camera Types.ctl" Type="VI" URL="../Camera Types.ctl"/>
+			<Item Name="d calc w y finish.vi" Type="VI" URL="../d calc w y finish.vi"/>
 			<Item Name="FRC_NetworkCommunication.dll" Type="Document" URL="FRC_NetworkCommunication.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="Get camera FOVs.vi" Type="VI" URL="../../../../../../Program Files (x86)/National Instruments/LabVIEW 2016/examples/FRC/roboRIO/Vision/2017 Vision Example/Vision Support Code/Get camera FOVs.vi"/>
+			<Item Name="Get camera FOVs.vi" Type="VI" URL="../Get camera FOVs.vi"/>
 			<Item Name="libc.so.6" Type="Document" URL="libc.so.6">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
