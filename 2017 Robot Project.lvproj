@@ -563,7 +563,6 @@ AddOutputFilter chunkFilter
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="speed regulation.vi" Type="VI" URL="../speed regulation.vi"/>
-			<Item Name="WPI_CameraBackground Loop 2.vi" Type="VI" URL="../WPI_CameraBackground Loop 2.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="FRC Robot Boot-up Deployment" Type="{69A947D5-514E-4E75-818E-69657C0547D8}">
