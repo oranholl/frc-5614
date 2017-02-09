@@ -128,6 +128,7 @@ AddOutputFilter chunkFilter
 			<Item Name="Test.vi" Type="VI" URL="../Test.vi"/>
 			<Item Name="Vision Processing.vi" Type="VI" URL="../Vision Processing.vi"/>
 		</Item>
+		<Item Name="boiler center.vi" Type="VI" URL="../boiler center.vi"/>
 		<Item Name="d calc w x.vi" Type="VI" URL="../d calc w x.vi"/>
 		<Item Name="distance to target.vi" Type="VI" URL="../distance to target.vi"/>
 		<Item Name="Global 4.vi" Type="VI" URL="../Global 4.vi"/>
@@ -541,6 +542,7 @@ AddOutputFilter chunkFilter
 				<Item Name="WPI_UtilitiesTimebaseConstants.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Utilities/WPI_UtilitiesTimebaseConstants.vi"/>
 				<Item Name="Write Value Core.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/Network Tables/Write Value Core.vi"/>
 			</Item>
+			<Item Name="Button press.vi" Type="VI" URL="../Button press.vi"/>
 			<Item Name="Camera Types.ctl" Type="VI" URL="../Camera Types.ctl"/>
 			<Item Name="d calc w y finish.vi" Type="VI" URL="../d calc w y finish.vi"/>
 			<Item Name="FRC_NetworkCommunication.dll" Type="Document" URL="FRC_NetworkCommunication.dll">
